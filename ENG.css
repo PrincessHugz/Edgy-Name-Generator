@@ -1,0 +1,12 @@
+[title|="header"] {
+	margin-top: 1%;
+}
+
+#gent {
+	margin-top: 15%;
+	color: #000000;
+	font-family: "Comic Sans MS";
+	font-size: 24px;
+	color: red;
+	text-shadow: 2px 1px yellow;
+}
